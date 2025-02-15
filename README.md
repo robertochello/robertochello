@@ -1,2 +1,48 @@
-# robertochello.github.io
-# robertochello.github.io
+# Roberto Chello  
+**Computer Engineer | Robotics and Automation**  
+
+🚀 Passionate about AI, automation, and robotics. I enjoy solving complex problems and developing efficient, real-world solutions in robotics and computer engineering. Open to new challenges.
+
+---
+
+## 🎓 Education  
+**Master's Degree in Computer Engineering - Robotics and Automation**  
+_University of Campania “Luigi Vanvitelli”_  
+**Thesis:** *Control Strategies for Grasp Force Regulation and Slipping Avoidance for an Anthropomorphic Robotic Hand*  
+
+---
+## 🚀 Projects  
+- [**RH8D Force Control**](https://github.com/robertochello/uclv-rh8d-force-control)  
+  *Implementation of ROS 2 modules for precise grip force control and mitigation of slippage in the anthropomorphic RH8D manipulator.*  
+
+- [**Seed Robotics ROS**](https://github.com/robertochello/uclv-seed-robotics-ros?tab=readme-ov-file)  
+  *ROS 2 project for the integration of RH8D manipulator control and sensor data processing, with detailed documentation.*  
+
+- [**Seed Robotics ROS Interfaces**](https://github.com/robertochello/uclv-seed-robotics-ros-interfaces)  
+  *Software interfaces to facilitate interoperability between hardware components and ROS 2 systems.*  
+
+- [**Dynamixel Utils**](https://github.com/robertochello/uclv-dynamixel-utils)  
+  *C++ library for controlling Dynamixel motors via protocol 2.0, designed for advanced robotic applications in a ROS 2 environment.*  
+
+---
+
+## 📊 GitHub Statistics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=robertochello&show_icons=true&theme=radical" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertochello&layout=compact&theme=radical" width="360" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Contact Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/robertochello">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:robertochello@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://robertochello.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
