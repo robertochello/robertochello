@@ -28,8 +28,8 @@ _University of Campania “Luigi Vanvitelli”_
 
 ## 📊 GitHub Statistics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertochello&show_icons=true&theme=radical" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertochello&layout=compact&theme=radical" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robertochello&show_icons=true&theme=radical" style="min-width: 350px; max-width: 400px; width: 100%;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertochello&layout=compact&theme=radical" style="min-width: 350px; max-width: 400px; width: 100%;" alt="Top Languages" />
 </p>
 
 ---
