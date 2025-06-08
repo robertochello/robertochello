@@ -6,6 +6,7 @@
 ---
 ## 💻 Work Experience
 **PLC Software Engineer**
+
 _Development of Programmable Logic Controller (PLC) logic for industrial automation systems._
 
 Main responsibilities:
