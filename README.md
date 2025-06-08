@@ -13,7 +13,8 @@ Main responsibilities:
  - Design and programming of Siemens S7-1200/1500 PLCs using TIA Portal.
  - Configuration and management of operator interfaces.
  - Maintenance and updates of PLC software on operational installations.
-
+  
+---
 ## 🎓 Education  
 **Master's Degree in Computer Engineering - Robotics and Automation**  
 _University of Campania “Luigi Vanvitelli”_  
