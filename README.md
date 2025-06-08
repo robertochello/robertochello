@@ -1,9 +1,17 @@
 # Roberto Chello  
 **Computer Engineer | Robotics and Automation**  
 
-🚀 Passionate about AI, automation, and robotics. I enjoy solving complex problems and developing efficient, real-world solutions in robotics and computer engineering. Open to new challenges.
+🚀 Passionate about automation, robotics and AI. I enjoy solving complex problems and developing efficient, real-world solutions in robotics/automation and computer engineering. Open to new challenges.
 
 ---
+## 💻 Work Experience
+**PLC Software Engineer**
+_Development of Programmable Logic Controller (PLC) logic for industrial automation systems._
+
+Main responsibilities:
+ - Design and programming of Siemens S7-1200/1500 PLCs using TIA Portal.
+ - Configuration and management of operator interfaces.
+ - Maintenance and updates of PLC software on operational installations.
 
 ## 🎓 Education  
 **Master's Degree in Computer Engineering - Robotics and Automation**  
