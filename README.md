@@ -63,13 +63,6 @@ _University of Campania “Luigi Vanvitelli”_
 
 ---
 
-## 📊 GitHub Statistics  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertochello&show_icons=true&theme=radical" style="min-width: 350px; max-width: 400px; width: 48%;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertochello&layout=compact&theme=radical" style="min-width: 350px; max-width: 400px; width: 48%;" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Contact Me  
 <p align="center">
